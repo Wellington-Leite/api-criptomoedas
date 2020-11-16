@@ -13,13 +13,20 @@
     <script type="text/javascript" src="script.js"></script>
   </head>
   <body>
-    <nav aria-label="breadcrumb">
-      <ol class="breadcrumb">
-        <li class="breadcrumb-item active" aria-current="page">
-          <h5>Coin Market Cap</h5>
-        </li>
-      </ol>
+    <!-- Navbar nova -->
+    <nav class="navbar navbar-light">
+      <h5>Coin Market Cap</h5>
+      <form class="form-inline">
+        <input
+          onkeyup="busca()"
+          class="form-control mr-sm-2"
+          type="text"
+          placeholder="Search"
+          aria-label="Search"
+        />
+      </form>
     </nav>
+
     <div class="d-fle p-3 bd-highlight">
       <div id="coins" class="container"></div>
     </div>

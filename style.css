@@ -12,3 +12,16 @@
 .media img {
   max-width: 120px;
 }
+
+body {
+  background-color: rgb(39, 39, 39);
+  color: #ffffff;
+}
+
+.navbar {
+  background-color: #0136c2;
+}
+
+form button label {
+  font-size: 20px;
+}
