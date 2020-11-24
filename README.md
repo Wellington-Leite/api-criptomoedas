@@ -1,6 +1,8 @@
 ## Bootcamp DIO - Everis: Requisitando dados de uma API de criptomoedas
 <br>
-<img src="https://github.com/Wellington-Leite/api-criptomoedas/blob/main/img/CoinMarketCap.gif" width="70%" height="70%" />
+<h3 align="center">
+  <img src="https://github.com/Wellington-Leite/api-criptomoedas/blob/main/img/CoinMarketCap.gif" width="70%" height="70%" />
+</h3>
 <br>
 Para requisitar a API Coinmarketcap é necessário estar cadastrado no site: [https://pro.coinmarketcap.com/](https://pro.coinmarketcap.com/)
 
